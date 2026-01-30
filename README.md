@@ -1,2 +1,3 @@
 # initial-project
-basic c program and practise codes while learning programming
+type basic code  and learn c language 
+
